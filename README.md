@@ -1,4 +1,4 @@
 easelJS-sandbox
 ===============
 
-sandbox for experimenting with EaselJS
+sandbox for experimenting with EaselJS;
